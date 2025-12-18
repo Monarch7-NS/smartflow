@@ -1,0 +1,8 @@
+{
+  "name": "SmartFlow",
+  "description": "The Patient Experience Platform for Clinique Générale d'Annecy. Mobile-first PWA for zero friction patient journeys.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
